@@ -5,15 +5,6 @@
 
 Control del enviroment y manejo de errores
 
-# Resumen visual
-
-- Error en modo dev
-<img src="https://jorgebenitezlopez.com/github/errorSymfony1.png">
-- Error en modo prod
-<img src="https://jorgebenitezlopez.com/github/errorSymfony2.png">
-- Error en prod personalizado
-<img src="https://jorgebenitezlopez.com/github/errorSymfony3.png">
-
 # Requisitos
 
 - Symfony CLI: https://symfony.com/download
@@ -65,4 +56,16 @@ templates/
 - Enviroment: https://symfony.com/doc/5.4/configuration.html#configuration-environments
 
 - Manejor de errores: http://symfony.com/doc/current/cookbook/controller/error_pages.html#use-kernel-exception-event
+
+
+# Resumen visual
+
+Error en modo dev
+<img src="https://jorgebenitezlopez.com/github/errorSymfony1.png">
+
+Error en modo prod
+<img src="https://jorgebenitezlopez.com/github/errorSymfony2.png">
+
+Error en prod personalizado
+<img src="https://jorgebenitezlopez.com/github/errorSymfony3.png">
 
